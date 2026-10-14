@@ -2,89 +2,87 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:2563EB&text=JANITH%20COMALING&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Janith Comaling — Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:111827,50:1F2937,100:374151&text=JANITH%20COMALING&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Janith Comaling — Full-Stack Developer" />
 
-<a href="https://readme-typing-svg.demolab.com/"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;PHP+%7C+CodeIgniter+%7C+MySQL;React+%7C+AngularJS+%7C+Tailwind+CSS;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated developer introduction" /> </a>
+<a href="https://readme-typing-svg.demolab.com/"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;PHP+%7C+CodeIgniter+%7C+MySQL;React+%7C+AngularJS+%7C+Tailwind+CSS;Building+Ideas+Into+Reality" alt="Developer introduction" /> </a>
 
 <br/>
 
-<a href="https://github.com/Togsaaay"> <img src="https://img.shields.io/badge/GitHub-Togsaaay-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /> </a> <a href="https://www.linkedin.com/in/janith-comaling-27009729b/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /> </a> <a href="mailto:comaling.janith01@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Janith" /> </a>
+<a href="https://github.com/Togsaaay"> <img src="https://img.shields.io/badge/GitHub-Togsaaay-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/janith-comaling-27009729b/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-374151?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:comaling.janith01@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a>
 
 </div>
 
 <!-- ==================== ABOUT ME ==================== -->
 
-👨‍💻 About Me
+About Me
 
-Hey there! I'm Janith Comaling, a full-stack developer passionate about building functional, responsive, and user-friendly applications.
+Hi, I'm Janith Comaling, a full-stack developer passionate about building and maintaining functional, responsive, and user-friendly applications.
 
-I enjoy working across the entire development process — from designing interfaces and building interactive frontend experiences to developing backend logic, integrating databases, and creating practical software solutions.
+I enjoy working across the entire development process, from designing interfaces and building interactive frontend experiences to developing backend logic, integrating databases, and creating practical software solutions.
 
-💻 Focused on full-stack web development.
-⚙️ Experienced with PHP, CodeIgniter, and database-driven applications.
-🎨 Building interactive interfaces with React, AngularJS, Vite, and Tailwind CSS.
-🗄️ Working with MySQL and Microsoft SQL Server.
-🛠️ Also working with Delphi for application development.
-🌱 Continuously learning new tools, improving my code, and exploring better ways to build software.
-🎯 My goal is to create maintainable, efficient, and meaningful digital solutions.
+Focused on full-stack web development.
+Experienced with PHP, CodeIgniter, and database-driven applications.
+Building interfaces with React, AngularJS, Vite, and Tailwind CSS.
+Working with MySQL and Microsoft SQL Server.
+Developing applications with Delphi.
+Continuously learning, improving code quality, and exploring better development practices.
+Focused on creating maintainable, efficient, and meaningful digital solutions.
+
 Code with purpose. Build with passion. Improve with every commit.
 
 <!-- ==================== TECH STACK ==================== -->
 
-🛠️ Tech Stack & Tools
-🎨 Frontend Development
+Tech Stack & Tools
+Frontend Development
 
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,vite,tailwind&theme=dark" alt="Frontend technologies" /> </p>
 
-⚙️ Backend Development
+Backend Development
 
-<p> <img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" alt="Backend technologies" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /> <img src="https://img.shields.io/badge/CodeIgniter-374151?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" /> </p>
 
-CodeIgniter is part of my stack too. The icon service may not provide a dedicated CodeIgniter icon.
+Databases
 
-🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /> <img src="https://img.shields.io/badge/MicrosoftSQLServer-374151?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" /> </p>
 
-<p> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /> <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" /> </p>
+Tools & Other Technologies
 
-🔧 Tools & Other Technologies
-
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Development tools" /> <img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi" /> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and VS Code" /> <img src="https://img.shields.io/badge/Delphi-374151?style=flat-square&logo=delphi&logoColor=white" alt="Delphi" /> </p>
 
 <!-- ==================== WHAT I DO ==================== -->
 
-🚀 What I Do
+What I Do
 
-<table> <tr> <td width="50%"> <h3>🌐 Frontend Development</h3> <p>Building responsive interfaces and interactive web experiences using React, AngularJS, Vite, and Tailwind CSS.</p> </td> <td width="50%"> <h3>⚙️ Backend Development</h3> <p>Developing server-side functionality, application logic, and web applications with PHP and CodeIgniter.</p> </td> </tr> <tr> <td width="50%"> <h3>🗄️ Database Management</h3> <p>Working with relational databases, SQL queries, and application data using MySQL and Microsoft SQL Server.</p> </td> <td width="50%"> <h3>🖥️ Application Development</h3> <p>Exploring and building software solutions with Delphi alongside modern web technologies.</p> </td> </tr> </table>
+<table> <tr> <td width="50%" valign="top"> <h3>Frontend Development</h3> Building responsive interfaces and interactive web experiences using React, AngularJS, Vite, and Tailwind CSS. </td> <td width="50%" valign="top"> <h3>Backend Development</h3> Developing server-side functionality, application logic, and web applications with PHP and CodeIgniter. </td> </tr> <tr> <td width="50%" valign="top"> <h3>Database Management</h3> Working with relational databases, SQL queries, and application data using MySQL and Microsoft SQL Server. </td> <td width="50%" valign="top"> <h3>Application Development</h3> Building software solutions with Delphi alongside modern web technologies. </td> </tr> </table>
 
 <!-- ==================== GITHUB STATS ==================== -->
 
-📊 GitHub Analytics
+GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Togsaaay"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Togsaaay&showicons=true&hideborder=true&bgcolor=0D1117&titlecolor=60A5FA&iconcolor=60A5FA&textcolor=C9D1D9&rank_icon=github" alt="Janith's GitHub statistics" /> </a>
-
-<a href="https://github.com/Togsaaay"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Togsaaay&layout=compact&hideborder=true&bgcolor=0D1117&titlecolor=60A5FA&textcolor=C9D1D9&langs_count=8" alt="Most-used programming languages" /> </a>
+<a href="https://github.com/Togsaaay"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Togsaaay&showicons=true&hideborder=true&bgcolor=0D1117&titlecolor=9CA3AF&iconcolor=9CA3AF&textcolor=C9D1D9&rankicon=github" alt="GitHub statistics" /> </a> <a href="https://github.com/Togsaaay"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Togsaaay&layout=compact&hideborder=true&bgcolor=0D1117&titlecolor=9CA3AF&textcolor=C9D1D9&langscount=6" alt="Most-used programming languages" /> </a>
 
 <br/><br/>
 
-<a href="https://github.com/Togsaaay"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Togsaaay&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub contribution streak" /> </a>
+<a href="https://github.com/Togsaaay"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Togsaaay&theme=transparent&hide_border=true&background=0D1117&ring=6B7280&fire=9CA3AF&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280&sideNums=C9D1D9" alt="GitHub contribution streak" /> </a>
 
 </div>
 
 <!-- ==================== CONNECT ==================== -->
 
-🤝 Let's Connect
+Connect With Me
+
 <div align="center">
 
-<a href="mailto:comaling.janith01@gmail.com"> <img src="https://img.shields.io/badge/Email-comaling.janith01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /> </a>
+<a href="mailto:comaling.janith01@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/janith-comaling-27009729b/"> <img src="https://img.shields.io/badge/LinkedIn-Janith_Comaling-374151?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/Togsaaay"> <img src="https://img.shields.io/badge/GitHub-Togsaaay-374151?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> </a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/janith-comaling-27009729b/"> <img src="https://img.shields.io/badge/LinkedIn-Janith_Comaling-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" /> </a>
-
-<br/><br/>
-
-<a href="https://github.com/Togsaaay"> <img src="https://img.shields.io/badge/FollowMeon_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub" /> </a>
+Building, learning, and improving — one commit at a time.
 
 </div>
+
+<!-- ==================== FOOTER ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:374151,50:1F2937,100:111827" width="100%" alt="" />
